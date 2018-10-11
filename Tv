@@ -1,0 +1,207 @@
+
+#EXTM3U
+#EXTINF: -1, tvg-logo = "https://goo.gl/T1BeZv", PLANETA ANIMAL L! VE HD:
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+ #EXTINF: -1, tvg-logo = "https://goo.gl/T1BeZv", DISCOVERY CANAL INTER:
+http://208.86.19.13:8080/live/31.stream/index.m3u8
+ #EXTINF: -1, tvg-logo = "https://goo.gl/T1BeZv", HBO FAMILLY:
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/livestream.m3u8
+ #EXTINF: -1, tvg-logo = "https://goo.gl/T1BeZv", REAL MADRID TV HD:
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+ #EXTINF: -1, tvg-logo = "https://goo.gl/T1BeZv", PARAMOUNT:
+http://187.49.86.238:10000/bysid/49
+ #EXTINF: -1, tvg-logo = "https://goo.gl/T1BeZv", FOX SPORTS
+https://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/4/stream.m3u8
+ #EXTINF: -1, tvg-logo = "https://goo.gl/T1BeZv", FOX SPORTS 2
+https://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/5/stream.m3u8
+ #EXTINF: -1, tvg-logo = "https://goo.gl/T1BeZv", AMC
+https://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/7/stream.m3u8
+ #EXTINF: -1, tvg-logo = "https://goo.gl/T1BeZv", FX
+https://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/8/stream.m3u8
+ #EXTINF: -1, tvg-logo = "https://goo.gl/T1BeZv", CINEMAX
+https://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/11/stream.m3u8
+ # EXTINF: -1, CINECANAL
+https://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/12/stream.m3u8
+ #EXTINF: -1, CARTOON NETWORK USA
+http://vs8.cdn.ott.otautv.kz:80/dtv/id33_KTR_SG--CartoonNetwork/03/plst.m3u8
+ #EXTINF: -1, Telemax HD
+http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8
+ # EXTM3U
+ #EXTINF: -1, TNT ESPAÑA
+http://cdn5.elitegol.xyz/verliga/9/index.m3u8
+ #EXTINF: -1, TNT LATINO
+http://cdn2.elitegol.xyz/verliga/29/index.m3u8
+ #EXTINF: -1, FOX LATINO
+http://cdn1.elitegol.xyz/verliga/28/index.m3u8
+ #EXTINF: -1, MOVISTAR COMEDIA
+http://cdn2.elitegol.xyz/verliga/4/index.m3u8
+ #EXTINF: -1, MOVISTAR CINE
+http://cdn2.elitegol.xyz/verliga/7/index.m3u8
+ #EXTINF: -1, CALLE 13
+http://cdn1.elitegol.xyz/verliga/18/index.m3u8
+ #EXTINF: -1, DIEZ
+http://cdn1.elitegol.xyz/verliga/33/index.m3u8
+ # EXTINF: -1, WIN SPORTS COLOMBIA
+http://cdn4.elitegol.xyz/verliga/35/index.m3u8
+ #EXTINF: -1, CINEMAX LATINO
+http://cdn5.elitegol.xyz/verliga/20/index.m3u8
+ #EXTINF: -1, CUATRO
+http://cdn5.elitegol.xyz/verdirectotv/2/index.m3u8
+ #EXTINF: -1, AMC ESPAÑA
+http://cdn2.elitegol.xyz/verliga/26/index.m3u8
+ #EXTINF: -1, NACIONAL GEOGRAPHIP ESPAÑA
+http://cdn2.elitegol.xyz/verliga/12/index.m3u8
+ #EXTINF: -1, NAT GEO WILD ESPAÑA
+http://cdn2.elitegol.xyz/verliga/13/index.m3u8
+ #EXTINF: -1, CAZA Y PEZCA
+http://cdn1.elitegol.xyz/verliga/15/index.m3u8
+ #EXTINF: -1, PAKA PAKA
+http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
+ #EXTINF: -1, CANAL 10
+http://iphone-streaming.ustream.tv/uhls/22780410/streams/live/iphone/playlist.m3u8
+ #EXTINF: -1, VITATO TV
+http://iphone-streaming.ustream.tv/uhls/20109787/streams/live/iphone/playlist.m3u8
+ # EXTINF: -1, SERIE VITATO
+http://iphone-streaming.ustream.tv/uhls/22671982/streams/live/iphone/playlist.m3u8
+ #EXTINF: -1, ANIME TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
+ # EXTINF: -1, SEÑAL COLOMBIA
+http://live10.cdnmedia.tv/rtvcscolombialive/smil:live.smil/playlist.m3u8
+ #EXTINF: -1, PAT TV
+http://192.99.46.56:1935/patbolivia/patlapaz/chunklist_w640594033.m3u8
+ #EXTINF: -1, ANTENA 3
+http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
+ #EXTINF: -1, CANAL SOL
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8
+ #EXTINF: -1, LA SEXTA
+http://cdn5.elitegol.xyz/verdirectotv/6/index.m3u8
+ #EXTINF: -1, MEGA TV
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+ #EXTINF: -1, NOVA TV
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+ #EXTINF: -1, MC MUSIC
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/127/chunklist.m3u8
+ #EXTINF: -1, TV DIVINIDAD
+http://cdn5.elitegol.xyz/verdirectotv/3/index.m3u8
+ #EXTINF: -1, CANAL 10
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+ #EXTINF: -1, MTV ESPAÑA
+http://cdn1.elitegol.xyz/verliga/1/index.m3u8
+ #EXTINF: -1, OROMART TV
+http://proxy.cablefamilia.com/hls/oromartv_hi/index.m3u8
+ #EXTINF: -1, RCN HD COLOMBIA
+http://cdn4.elitegol.xyz/verliga/14/index.m3u8
+ # EXTINF: -1, AZTECA 7
+http://cdn4.elitegol.xyz/verliga/34/index.m3u8
+ # EXTINF: -1, SALINA CRUZ
+http://play.gvstream.net:554/e-tv-video/default.stream/playlist.m3u8
+ #EXTINF: -1, CANAL 44
+http://canal44-lh.akamaihd.net/i/ch_mexicali@325633/master.m3u8
+ #EXTINF: -1, TDT
+http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
+ #EXTINF: -1, OCHO TV
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
+ # EXTINF: -1, TRECE VISION
+http://74.222.3.185:1935/live/ngrp:trecevision_all/chunklist_w425485154_b1431072.m3u8
+ # EXTINF: -1, UFC
+http://cdn1.elitegol.xyz/verliga/2/index.m3u8
+ #EXTINF: -1, CDF HD
+http://cdn1.elitegol.xyz/verliga/10/index.m3u8
+ # EXTINF: -1, FOX SPORTS
+http://cdn5.elitegol.xyz/verdirectotv/10/index.m3u8
+ #EXTINF: -1, EUROSPORTS
+http://cdn2.elitegol.xyz/verliga/25/index.m3u8
+ #EXTINF: -1, DEPORTES TYC
+http://cdn1.elitegol.xyz/verliga/37/index.m3u8
+ #EXTINF: -1, MIAMI TV
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+ #EXTINF: -1, CANAL LATINO
+http://iphone-streaming.ustream.tv/uhls/4811076/streams/live/iphone/playlist.m3u8
+ #EXTINF: -1, EFEKTO TV
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
+ #EXTINF: -1, CANAL 26
+http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
+ #EXTINF: -1, TELE UNO
+http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
+ #EXTINF: -1, TELECAFÉ COLOMBIA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8
+ #EXTINF: -1, CANAL DE LAS ESTRELLAS
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+ #EXTINF: -1, UNIVISIÓN
+http://iphone-streaming.ustream.tv/uhls/22460196/streams/live/iphone/playlist.m3u8?
+ #EXTINF: -1, RED DE CARTOON
+http://vs8.cdn.ott.otautv.kz:80/dtv/id33_KTR_SG--CartoonNetwork/03/plst.m3u8
+ #EXTINF: -1, RT HD
+http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index1600.m3u8
+ #EXTINF: -1, Syfy
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/42/stream.m3u8
+ # EXTINF: -1, Disney Jr
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/25/stream.m3u8
+ # EXTINF: -1, Disney XD
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/30/stream.m3u8
+ # EXTINF: -1, Nick
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/21/stream.m3u8
+ #EXTINF: -1, AXN
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/74/stream.m3u8
+ # EXTINF: -1, ESPN
+http://ret8eg4d4vd4u48i44.premiumtutv.com/streams/95/stream.m3u8
+ #EXTINF: -1, ESPN 2
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/35/stream.m3u8
+ # EXTINF: -1, ESPN 3
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/36/stream.m3u8
+ # EXTINF: -1, Animal Planet
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/28/stream.m3u8
+ # EXTINF: -1, Discovery Home
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/66/stream.m3u8
+ #EXTINF: -1, familia HBO
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w437571733.m3u8?
+ # EXTINF: -1, Canal13 HD
+http://live.hls.http.13.ztreaming.com/13hddesktop/13hd-900.m3u8
+ #EXTINF: -1, CHV HD
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
+ #EXTINF: -1, AMC
+http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/7/stream.m3u8
+ #EXTINF: -1, acción FOX
+http://ret8eg4d4vd4u48i44.premiumtutv.com/streams/88/stream.m3u8
+ #EXTINF: -1, serie FOX
+http://ret8eg4d4vd4u48i44.premiumtutv.com/streams/89/stream.m3u8
+ #EXTINF: -1, espacio
+http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/15/stream.m3u8
+ #EXTINF: -1, TNT
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/15/stream.m3u8
+ # EXTINF: -1, Animal Planet
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/28/stream.m3u8
+ # EXTINF: -1, historial
+http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/6/stream.m3u8
+ # EXTINF: -1, Warner Channel
+http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/9/stream.m3u8?textatu?iptv.m3u8
+ # EXTINF: -1, Descubrimiento de investigación
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/65/stream.m3u8
+ #EXTINF: -1, FOX
+http://ret8eg4d4vd4u48i44.premiumtutv.com/streams/98/stream.m3u8
+ # EXTINF: -1, Fox Sports 2 HD
+https://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/5/stream.m3u8
+ # EXTINF: -1, Civilización de descubrimiento
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/61/stream.m3u8?textatu?iptv.m3u8
+ # EXTINF: -1, Discovery Turbo
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/63/stream.m3u8?textatu?iptv.m3u8
+ #EXTINF: -1, Cinecanal
+http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/12/stream.m3u8
+ #EXTINF: -1, TNT 2
+http://cdn2.elitegol.xyz/verliga/9/index.m3u8?.info?.m3u
+ #EXTINF: -1, National Geografic
+http://cdn2.elitegol.xyz/verliga/12/index.m3u8?.info?.m3u
+ # EXTINF: -1, Natgeo Wild
+http://cdn2.elitegol.xyz/verliga/13/index.m3u8?.info?.m3u
+ # EXTINF: -1, Bein Sports
+http://edge6.livesports.pw/live/verbeinsportae541f9250d4e/index.m3u8
+ #EXTINF: -1, La Liga Tv
+http://edge8.livesports.pw/live/verbarliga42d2c0aa34b418d/index.m3u8
+ # EXTINF: -1, Movistar Futbol
+http://edge8.livesports.pw/live/verfutbolespmd8d7b9cbe039/index.m3u8
+ # EXTINF: -1, Ask
+http://edge2.everyon.tv/etv2sb/phd10771/playlist.m3u8
+ #EXTINF: -1, BS24 Live
+http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
+ # EXTINF: -1, Jasmin TV HD
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
